@@ -1,4 +1,4 @@
-## Hello! 👋 My name is Alexander Cardona and I am learning all about the exciting world of coding and all that it implies! It's an exciting time for sure! Right now I'm looking to choose my next project. I can't wait to be elbows deep in some fomr of coding or another! Well, thanks for checking up on me! See you in the cybernet!
+## Hello! 👋 My name is Alexander Cardona and I am learning all about the exciting world of coding and all that it implies! It's an exciting time for sure! Right now I'm looking to choose my next project. I can't wait to be elbows deep in some form of coding or another! Well, thanks for checking up on me! See you in the cybernet!
 
 <!--
 **alxc16/alxc16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
